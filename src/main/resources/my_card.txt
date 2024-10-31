@@ -1,0 +1,13 @@
+STAGE1
+Luxio
+90
+LIGHTNING
+C:\Users\Egor\IdeaProjects\Pkmn\src\main\resources\Shinx.txt
+L / Thunder Shock / 30
+FIGHTING
+None
+C
+Brilliant Stars
+F
+Ряжский / Егор / Андреевич / БСБО-06-23
+50

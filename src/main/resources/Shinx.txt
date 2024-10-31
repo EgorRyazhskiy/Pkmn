@@ -1,0 +1,13 @@
+BASIC
+Shinx
+40
+LIGHTNING
+None
+L / Gnaw / 10
+FIGHTING
+None
+-
+Brilliant Stars
+F
+None
+49
