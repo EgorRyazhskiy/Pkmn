@@ -17,7 +17,8 @@ public class PkmnApplication {
         Card myCard = CardImport.importCardFromTxt("src/main/resources/my_card.txt");
         // Обновляем атакующие навыки карточки с использованием HTTP-клиента
         CardImport.updateAttackSkill(myCard, httpClient);
-
+        // Создаём владельца карты
+        //db.createPokemonOwner(myCard.getPokemonOwner());
         // Сохраняем карточку в базе данных
         db.saveCardToDatabase(myCard);
 
